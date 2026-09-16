@@ -7,7 +7,7 @@
 - 이름:김희철
 - GitHub ID:KHeeCheol
 - 개인 저장소명: `llm-data-analysis-study`
-- 작성일:2026-09-0716
+- 작성일:2026-09-16
 - 사용한 LLM:chatGPT
 
 ### 최종 제출 URL
